@@ -208,6 +208,8 @@ export default {
   color: #2c3e50;
   margin: 0px auto;
   margin-top: 60px;
-  width: 30%;
+  width:50%;
+  padding: 2em;
+  box-shadow: 0 0 5px 5px #666;
 }
 </style>
