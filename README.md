@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8bf02f21-abae-4574-869b-0d02158a127d/deploy-status)](https://app.netlify.com/sites/changecounter/deploys)
 ![GitHub](https://img.shields.io/github/license/cjerrington/MoneyCounter)
-![David](https://img.shields.io/david/cjerrington/MoneyCounter)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/cjerrington/MoneyCounter)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/cjerrington/MoneyCounter)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cjerrington/MoneyCounter)
 
